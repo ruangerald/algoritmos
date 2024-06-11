@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient( rgb(1, 36, 1), rgb(4, 85, 4), rgb(1, 134, 1));
+    height: 100vh;
+    font-family: "Comfortaa", sans-serif;
+}
+
+header, a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+button {
+    background-color: rgb(16, 109, 16);
+    height: 40px;
+    margin-left: 70px;
+    border-radius: 20px;
+    border-color: green;
+}
